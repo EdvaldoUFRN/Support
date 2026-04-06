@@ -1,0 +1,9 @@
+body {
+    background-color: oklch(93.2% 0.032 255.585) !important;
+    color: white; /* Removi o !important daqui para não afetar o card */
+}
+
+/* Garante que o texto dentro do card continue escuro para leitura */
+.card {
+    color: #333 !important;
+}

@@ -1,0 +1,11 @@
+{
+	"autoload":{
+		"files":[
+			"app/functions/custom.php",
+			"app/functions/page.php",
+			"app/functions/validate.php",
+			"app/functions/flash.php",
+			"app/functions/database.php"
+		]
+	}
+}

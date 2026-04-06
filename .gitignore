@@ -1,0 +1,17 @@
+# Dependências do PHP (Composer)
+# Nunca suba a pasta vendor, ela é baixada via 'composer install'
+vendor/
+
+# Configurações do VS Code
+# Pasta que contém o launch.json e configurações locais
+.vscode/
+
+# Arquivos de log e temporários do servidor
+*.log
+
+# Caso você use um arquivo .env para senhas (altamente recomendado)
+.env
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
